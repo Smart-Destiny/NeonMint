@@ -1,0 +1,129 @@
+NeonMint - Branding Guidelines
+
+A Cohesive Identity for Your NFT Ecosystem
+
+1. Brand Overview
+
+Brand Name: NeonMint
+
+Industry: NFT Ecosystem (NFT marketplace, minting platform, NFT-Fi, gaming & metaverse integration)
+
+Brand Personality:
+
+	•	Futuristic & Innovative
+	•	Tech-Savvy & Digital-First
+	•	Community-Driven
+	•	Bold & Visionary
+
+Tagline (Optional): Mint the Future
+
+2. Logo Usage
+
+Primary Logo:
+
+	•	Use the full-color gradient version on dark backgrounds.
+	•	Keep proper spacing around the logo for a clean, modern look.
+	•	Maintain the aspect ratio—do not stretch or distort.
+
+Alternative Logo:
+
+	•	A monochrome version (white or dark blue) can be used for versatility.
+
+Logo Misuse:
+
+	•	Do not change the colors of the logo.
+	•	Do not add shadows or effects outside of branding elements.
+	•	Do not rotate, flip, or modify the design.
+
+3. Color Palette
+
+Primary Colors:
+
+	•	Deep Midnight Blue - #0b171f (60%)
+	•	Bright Neon Cyan - #24797a (30%)
+	•	Soft Mint Blue - #b1dfde (10%)
+
+Accent Colors (for highlights & buttons):
+
+	•	Teal Blue - #64c6c2
+	•	Dark Cyan - #133f4a
+
+📌 60/30/10 Rule:
+	•	60% background & dominant color
+	•	30% secondary color (for contrast)
+	•	10% accent color (for highlights & CTA)
+
+4. Typography
+
+Primary Font: “Regular Earth”
+
+	•	Used for logo, headers, and key branding elements.
+	•	Modern, futuristic, and tech-inspired.
+
+Secondary Font: Montserrat (or similar sans-serif font)
+
+	•	Used for body text and general readability.
+	•	Clean and professional for website and documents.
+
+5. Visual Elements & Design Language
+
+	•	Gradient Use: Smooth transitions between the neon cyan and deep blue for a high-tech feel.
+	•	Shapes & Motifs:
+	•	Angular lines & geometric patterns to represent blockchain and technology.
+	•	Glowing neon effects for a cyber-futuristic theme.
+	•	Icons & Buttons: Rounded or slightly sharp-edged to match the futuristic style.
+
+6. Imagery & Graphics
+
+	•	Backgrounds: Dark-themed with neon highlights for contrast.
+	•	NFT Showcases: Use glowing card-style frames for NFT previews.
+	•	Illustrations: Abstract futuristic elements or 3D assets.
+	•	Stock Images: Tech-oriented with a cyberpunk aesthetic if necessary.
+
+7. Brand Application
+
+Website:
+
+	•	Dark background with neon blue highlights.
+	•	Sections: About, Features, Roadmap, Team, Socials.
+
+Social Media:
+
+	•	Twitter/X & Discord: Dark theme with logo and color palette in banners & posts.
+	•	Post templates: Use consistent fonts & colors for announcements.
+
+Marketing Materials:
+
+	•	Banners, Pitch Decks, Business Cards, and Merchandise should follow the color palette and typography rules.
+
+8. Tone & Voice
+
+Brand Communication Style:
+
+	•	Confident, Futuristic, and Engaging.
+	•	Speak in an inclusive and tech-savvy manner.
+	•	Keep it clear and community-focused.
+
+📌 Example:
+🚀 “The future of NFTs is here. Mint, trade, and stake like never before with NeonMint.”
+
+9. Do’s & Don’ts
+
+✅ Do:
+	•	Use brand colors and typography consistently.
+	•	Keep the futuristic, tech-driven feel.
+	•	Maintain a clean and minimalistic approach.
+
+❌ Don’t:
+	•	Use off-brand colors.
+	•	Overcomplicate the design with excessive effects.
+	•	Stray from the high-tech, digital aesthetic.
+
+10. Final Thoughts & Next Steps
+
+With these branding guidelines, NeonMint will establish a strong, futuristic identity in the NFT space. The next steps include:
+✅ Creating branded assets (social media banners, website elements, etc.)
+✅ Applying branding across platforms consistently
+✅ Launching a website with the NeonMint identity
+
+Would you like help with social media templates or a website wireframe next?
